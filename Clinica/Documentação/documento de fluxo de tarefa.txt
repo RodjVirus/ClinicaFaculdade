@@ -1,0 +1,23 @@
+[Steps]
+-Criar a biblioteca Hibernate e importar seus arquivos jar
+
+-Criar a biblioteca MySQL e importar seus arquivos jar
+
+-Criar um novo projeto java
+
+-Adicionar a biblioteca Hibernate e MySQL ao projeto
+
+-Criar dentro da pasta src a pasta "META-INF"
+
+-Criar dentro da pasta"META-INF" o arquivo persistence.xml do hibernate, aonde sera feita a conexão com o Banco de Dados
+
+-Criar o pacote "com.entidades" aonde sera criado todas as entidades do Sistema
+
+-Criar o pacote "com.crud" aonde sera criado todas as crud para inserir, apagar, atualizar os dados no banco de dados
+
+-Criar o pacote "com.teste" aonde sera criado a classe principal de teste
+
+
+[Video aula]
+
+https://www.youtube.com/watch?v=dfuv_4V7zwM   <-- CRUD com JPA no Eclipse -->
